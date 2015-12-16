@@ -1,5 +1,7 @@
 # EnglishDictionaryWords
 
+#developed by kusha bk
+
 #About
 EnglishDictionaryWords is an xml file contain more than 69903 English words
 
